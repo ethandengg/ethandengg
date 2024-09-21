@@ -40,7 +40,7 @@ I am currently a fourth year student at UC San Diego studying Data Science. I am
 - University of California, San Diego (2022 - 2025)
 
 ## Work Experience:
-- Vigorous W i-ADU (Dec 2023 - Present)
+- Vigorous W i-ADU (Dec 2023 - Aug 2024)
 - Target (Jun 2021 - July 2022)
 
 ## Connect:
