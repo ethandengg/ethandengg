@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently a fourth year student at UC San Diego studying Data Science. I am passionate about learning new technology and using data to uncover new insights about the real world.
+I'm a fourth-year student at UC San Diego studying Data Science. I am passionate about learning new technology and using data to uncover new and meaningful insights about the real world.
 
 ## Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -24,7 +24,6 @@ I am currently a fourth year student at UC San Diego studying Data Science. I am
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -34,13 +33,15 @@ I am currently a fourth year student at UC San Diego studying Data Science. I am
 ## Projects:
 - [Recipe Protein Prediction](https://ethandengg.github.io/Protein_Prediction/)
 - [Recipe Protein Analysis](https://ethandengg.github.io/Protein_Analysis/)
+- [SDGE EV Charger Exploratory Data Analysis](https://github.com/ethandengg/SDGE_EV_EDA)
 
 ## Education:
 - Irvine Valley College, Irvine (2020 - 2022)
 - University of California, San Diego (2022 - 2025)
 
 ## Work Experience:
-- Vigorous W i-ADU (Dec 2023 - Sept 2024)
+- Vigorous W i-ADU (Dec 2023 - Aug 2024)
+- Data Science Student Society (DS3) Management Chair (Oct 2023 - Jun 2024)
 - Target (Jun 2021 - July 2022)
 
 ## Connect:
